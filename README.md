@@ -11,4 +11,4 @@ Here are the things I've tried:
 
 2. After editing the code like the other UI scripts, I add '- game_jump' inside the game_interface/interface.otmod file
 
-These things should've created something but unfortunately nothing was showing up in the client, even when I tried it out with other existing examples, and folders.
+These things should've created something but unfortunately nothing was showing up in the client, even when I tried it out with other existing examples, and folders (such as game_skill, game_minimap).
